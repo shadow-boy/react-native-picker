@@ -75,6 +75,13 @@ interface PickerOptions {
      */
     pickerConfirmBtnColor?: number[]
 
+
+
+    /**
+     * 自定义添加的属性、 
+     */
+    pickerTextEllipsisLen:number
+
     /**
      * The color of the text for the cancel button
      *
